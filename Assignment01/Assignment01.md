@@ -33,3 +33,9 @@ Your output should always contain two digits after the decimal point.
 3.20 -15.00
 52.31 4.76
 ```
+
+## Small text in plain language of my understanding
+The file airlinehub.in contains a list of coordinates of airports that WWF can pick as their central hub.
+My job is to check which of these hubs have the shortest distance to all other airports in the list.
+The task appears to have multiple sets of data (lists of aiports), and I am to determine the best hub within each set.
+If two or more airports have the same lowest average distance to other airports I am to output the one that is listed last in the input set.
