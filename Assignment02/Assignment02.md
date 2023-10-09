@@ -63,3 +63,8 @@ bananananaspaj
 1 3 5 7
 1 3 5 7 9 12
 ```
+
+## Small text in plain language of my understanding of the assignment
+The code I am developing should search a specific input string for occurences of substrings, and return a list of index positions for these substrings.
+The input file contains a set of test cases for the code I am to develop: each case can have 1 or more substrings to search for.
+The amount of substrings is specified by the number at the beginning of the file. The first string after this amount of substrings is the string in which to search.
